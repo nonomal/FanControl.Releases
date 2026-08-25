@@ -1,11 +1,11 @@
 {
-    "Number":  274,
+    "Number":  275,
     "Message":  "- Fix a bug where the tray icon would not appear on service start\r\n- Fix a bug preventing a fan curve to be added into a mix\r\n- Fix a bug when cancelling a graph edit\r\n- Tweak control card disabled state look\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "82FB27B685553D81FCFC81ED27C8F194",
-                      "FanControl_10_0":  "4CF8D153E8CC95B5B9FDFD72631E05D8",
-                      "FanControl_4_8_Installer":  "A22BC7FEA19572BE82641B470291DEAE",
-                      "FanControl_10_0_Installer":  "A425223EB213E59BEDA6AAE7D06E0303",
+                      "FanControl_4_8":  "FEE19FFC6FDD345EDEBA2A09783F3506",
+                      "FanControl_10_0":  "523C844209453DB286128C267A9AE82E",
+                      "FanControl_4_8_Installer":  "8DC6E0524DF112CF756C073C255D60D2",
+                      "FanControl_10_0_Installer":  "A7F682E496F48848D171CBA2F09F1FBF",
                       "Updater":  "283A6E745166CD3D495DBE9CD75BFD18"
                   }
 }
